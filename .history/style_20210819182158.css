@@ -1,8 +1,11 @@
 .titre {
   font-family: "Cinzel", serif;
-  margin-top: 50px;
 }
 
 * {
   font-family: "Cinzel", serif;
+}
+
+.card {
+  margin-top: 30px;
 }
